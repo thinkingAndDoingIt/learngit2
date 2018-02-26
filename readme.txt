@@ -7,3 +7,4 @@ unable fast forward test.
 bug branch manager.
 delete brach without commited. 
 
+
