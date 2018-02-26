@@ -6,5 +6,5 @@ creating a new branch is quick and simple.
 unable fast forward test.
 bug branch manager.
 delete brach without commited. 
-
+多人协作，模拟这是同事上传的内容。
 
