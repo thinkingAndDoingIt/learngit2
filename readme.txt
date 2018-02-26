@@ -4,5 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 creating a new branch is quick and simple.
 unable fast forward test.
-³åÍ»ÉèÖÃ¡£
-
+é‡æ–°è®¾ç½®utf-8æ ¼å¼å­—ç¬¦ã€‚
